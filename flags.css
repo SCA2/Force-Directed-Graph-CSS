@@ -9,7 +9,8 @@
     line-height: 11px;
     width:16px;
     height:11px;
-    background:url('https://github.com/SCA2/Force-Directed-Graph-CSS/blob/master/flags.png') no-repeat
+    background:url('https://cdn.rawgit.com/SCA2/Force-Directed-Graph-CSS/23904d03/flags.png');
+    background-repeat: no-repeat
 }
 
 .flag.flag-af {
